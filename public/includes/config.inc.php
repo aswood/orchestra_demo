@@ -5,9 +5,9 @@ if (!defined('_VALID_'))
 	die ('Unauthorized Access');
 
 // Database Login
-define('DB_NAME', 'db_e8653741');
-define('DB_USER', 'user_e8653741');
-define('DB_PASS', 'M,fhag32%5f26@');
+define('DB_NAME', 'db_483461cc');
+define('DB_USER', 'user_483461cc');
+define('DB_PASS', '0Ol%V$XlsV.zNm');
 define('DB_HOST', 'a.db.shared.orchestra.io');
 define('DB_TBL_PRE', '');
 
