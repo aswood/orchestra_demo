@@ -13,7 +13,7 @@ define('DB_TBL_PRE', '');
 
 // Company, Website, Admin and Misc
 define('COMPANY_NAME', 'Asoft');
-define('WEBSITE_PATH', '/');
+define('WEBSITE_PATH', '/mnt/orchestra-virtualized/home/susu/var/www/site/latest/public/');
 define('SECURITY_WORD', 'zxcvfdsa'); // Used to help encrypt invoice hash
 define('ADMIN_EMAIL', 'winazerty@gmail.com');
 define('CLIVO_VERSION', '2.5.1');
